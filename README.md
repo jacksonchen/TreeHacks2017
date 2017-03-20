@@ -19,10 +19,10 @@ about what they're reading and ultimately broaden their view
         - Suggestion Spectrum
 
 ### Backend
-- News Spectrum Indexing (Joseph)
-    - IBM AlchemyLanguage API -> Indexing (Joseph)
-    - Suggestions Generator (Joseph)
-- Summarization Generator (Ryan)
+- News Spectrum Indexing
+    - IBM AlchemyLanguage API -> Indexing
+    - Suggestions Generator
+- Summarization Generator
 
 ## Workflow
 
